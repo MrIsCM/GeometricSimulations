@@ -1,4 +1,4 @@
-### GeometricSimulations
+### GeometricSimulations :triangular_ruler:
 
 Some geometric simulations.
 As of today:
